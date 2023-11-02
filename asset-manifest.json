@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DirectionsApp/static/css/main.87028fc3.css",
+    "main.js": "/DirectionsApp/static/js/main.35f3084f.js",
+    "static/js/787.091a7645.chunk.js": "/DirectionsApp/static/js/787.091a7645.chunk.js",
+    "index.html": "/DirectionsApp/index.html",
+    "main.87028fc3.css.map": "/DirectionsApp/static/css/main.87028fc3.css.map",
+    "main.35f3084f.js.map": "/DirectionsApp/static/js/main.35f3084f.js.map",
+    "787.091a7645.chunk.js.map": "/DirectionsApp/static/js/787.091a7645.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87028fc3.css",
+    "static/js/main.35f3084f.js"
+  ]
+}
